@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Background
+  - Shadow
+  - Cursor
+  - WhiteFrash
+  - Mapping
+  - GroundReset
+  - GrassPosition0
+  - GrassPosition1
+  - GrassPosition2
+  - GrassPosition3
+  - ShadowPosition1
+  - ShadowPosition2
+  - ShadowPosition3
+  - ShadowPosition4
+  - ShadowPosition5
+  - ShadowPosition6
+  - ShadowPosition7
+  - ShadowPosition8
+  - ShadowPosition9
+  - ShadowPosition10
+  - ShadowPosition11
+  - ShadowPosition12
+  - ShadowPosition13
+  - BossPosition
+  - Boss
+  - SubBoss
+  - Door
+  - Bridge
+  - Ground1
+  - Ground2
+  - Ground3
+  - StartPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Cursor
+  - Ground
+  - Wall
+  - Shadow
+  - ShadowGroup
+  - Player
+  - Key
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
